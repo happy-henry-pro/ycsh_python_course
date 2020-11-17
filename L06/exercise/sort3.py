@@ -1,0 +1,7 @@
+a=float(input())
+b=float(input())
+c=float(input())
+d=((-b)+((b**2-(4*a*c)))**(1/2))/(2*a)
+e=((-b)-((b**2-(4*a*c)))**(1/2))/(2*a)
+print(d)
+print(e)
